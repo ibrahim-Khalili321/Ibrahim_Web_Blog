@@ -11,21 +11,6 @@ This project was created as a practice and showcase of React fundamentals includ
 
 ---
 
-## 📸 Preview
-
-![screenshot](./preview.png) <!-- optional, you can add one later -->
-
----
-
-## 🛠️ Features
-
-- 🔗 Clean navbar with routing (`Home`, `About`, `Blog Post`)
-- 📄 Blog post about **Ibrahim Khalili**, with inspiring content
-- 📱 Responsive layout with CSS Grid and Flexbox
-- 💡 Styled using pure CSS (easy to customize)
-
----
-
 ## 📂 Folder Structure
 
 my-blog-app/
@@ -59,9 +44,10 @@ npm install
 # 3. Start development server
 npm run dev
 Then open http://localhost:5173 in your browser 🚀
+```
 
 👨‍💻 Built By
 Created by Ibrahim Khalili
----
+
 ## How to Access the Web Blog
 https://ibrahim-web-blog-7weu.vercel.app/
