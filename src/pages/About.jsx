@@ -1,5 +1,5 @@
 // src/pages/About.jsx
-import profilePic from '../assets/ibrahim.jpg'; 
+import profilePic from '../assets/ibrahim.JPG'; 
 import '../components/About.css'
 export default function About() {
   return (
